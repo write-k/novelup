@@ -1,0 +1,31 @@
+
+body {
+    font-family: "Georgia", "Times New Roman", serif;
+    background-color: #f4f1e7;
+    color: #2c1b0c;
+    margin: 0;
+    padding: 2em;
+}
+.content {
+    max-width: 800px;
+    margin: auto;
+    background: #fffdf6;
+    padding: 2em;
+    border: 1px solid #cbb994;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+h1 {
+    font-size: 1.8em;
+    border-bottom: 2px solid #8c7156;
+    padding-bottom: 0.3em;
+    margin-bottom: 1em;
+    color: #5a3e26;
+}
+a {
+    color: #7a5520;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
